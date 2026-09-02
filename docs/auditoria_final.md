@@ -31,7 +31,7 @@
 
 | Item | Situacao final | Evidencia | Pendencia |
 |---|---|---|---|
-| README | ATENDE | `README.md` com execucao em destaque, autoria, estrutura, funcionalidades e links. | Professor(a) e semestre estao como PENDENTE DE CONFIRMACAO. |
+| README | ATENDE | `readme.md` com execucao em destaque, autoria, estrutura, funcionalidades e links. | Professor(a) e semestre estao como PENDENTE DE CONFIRMACAO. |
 | Documentacao tecnica | ATENDE | `docs/documentacao_projeto.md` e `docs/documentacao_projeto.pdf`. | Nenhuma conhecida. |
 | Tutorial de execucao | ATENDE PARCIALMENTE | `docs/tutorial_execucao.md` e `docs/tutorial_execucao.pdf`. | Inserir capturas reais nos marcadores. |
 | Tutorial de uso | ATENDE PARCIALMENTE | `docs/tutorial_uso.md` e `docs/tutorial_uso.pdf`. | Inserir capturas reais nos marcadores. |
