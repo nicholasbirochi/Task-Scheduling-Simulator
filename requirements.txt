@@ -1,11 +1,2 @@
-numpy
-pefile
-pillow
-matplotlib
-scikit-learn
-pandas
-seaborn
-ipython
-jupyter
-requests
-beautifulsoup4
+# Runtime dependencies: none.
+# The application uses only the Python standard library.
