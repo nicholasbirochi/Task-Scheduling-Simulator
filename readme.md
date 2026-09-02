@@ -1,10 +1,6 @@
 # Simulador de Escalonamento de Tarefas
 
-Projeto pratico da disciplina de Sistemas Operacionais.
-
-Repositorio GitHub: **Task-Scheduling-Simulator**
-
-Descricao GitHub: **Python desktop simulator for CPU scheduling algorithms with priority inversion, priority inheritance, ceiling protocol, aging, scenario persistence, and validation tests.**
+Simulador de escalonamento desenvolvido para a disciplina de Sistemas Operacionais. A interface permite comparar os algoritmos e observar o efeito de prioridades, protocolos de correção e aging nos cenários de tarefas.
 
 ## Como executar
 
@@ -136,3 +132,7 @@ python scripts/gerar_pdfs.py
 3. Reproduza os cenarios conhecidos pelo [Tutorial de uso](./docs/tutorial_uso.pdf).
 4. Consulte a [Documentacao tecnica](./docs/documentacao_projeto.pdf) para entender o codigo.
 5. Execute `python -m unittest discover -v` para conferir os testes automatizados pelo codigo-fonte.
+
+## Licença
+
+Código e documentação autorais sob [MIT](license).
