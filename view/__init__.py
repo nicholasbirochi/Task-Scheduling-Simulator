@@ -1,2 +1,3 @@
-from .graficoProcessos import grafico_processos
-from .janela import criar_janela
+from simulador.gui import criar_janela
+
+__all__ = ["criar_janela"]
