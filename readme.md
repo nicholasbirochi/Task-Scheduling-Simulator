@@ -4,13 +4,13 @@ Simulador de escalonamento desenvolvido para a disciplina de Sistemas Operaciona
 
 ## Como executar
 
-Clique duas vezes em:
+O executavel nao fica no repositorio. Gere-o com o PyInstaller (veja "Para gerar o executavel" abaixo) e clique duas vezes em:
 
 ```text
 dist/Simulador.exe
 ```
 
-Nao e necessario abrir terminal, criar ambiente virtual, instalar bibliotecas ou passar argumentos. A aplicacao abre uma janela grafica e permanece aberta apos a simulacao e diante de erros de entrada.
+Depois de gerado, nao e necessario abrir terminal, criar ambiente virtual, instalar bibliotecas ou passar argumentos. A aplicacao abre uma janela grafica e permanece aberta apos a simulacao e diante de erros de entrada.
 
 Durante desenvolvimento, tambem e possivel executar:
 
@@ -127,7 +127,7 @@ python scripts/gerar_pdfs.py
 
 ## Por onde comecar
 
-1. Abra `dist/Simulador.exe`.
+1. Gere e abra `dist/Simulador.exe`.
 2. Siga o [Tutorial de execucao](./docs/tutorial_execucao.pdf).
 3. Reproduza os cenarios conhecidos pelo [Tutorial de uso](./docs/tutorial_uso.pdf).
 4. Consulte a [Documentacao tecnica](./docs/documentacao_projeto.pdf) para entender o codigo.

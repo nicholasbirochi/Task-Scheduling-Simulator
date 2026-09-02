@@ -24,6 +24,4 @@ build/
 *.tmp
 *.bak
 
-dist/*
-!dist/Simulador.exe
-!dist/README_DIST.txt
+dist/
